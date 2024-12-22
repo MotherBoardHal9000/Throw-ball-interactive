@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #99d1fd;
+ 
+
+}
+
+
+
+#circle{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%;
+}
